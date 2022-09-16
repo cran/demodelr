@@ -1,7 +1,7 @@
 Package: demodelr
 Type: Package
 Title: Simulating Differential Equations with Data
-Version: 1.0.0
+Version: 1.0.1
 Depends: R (>= 4.1.0)
 Authors@R: 
     person("John", "Zobitz", , "zobitz@augsburg.edu", role = c("aut", "cre"),
@@ -25,8 +25,8 @@ Imports: ggplot2, purrr, tidyr, dplyr, formula.tools, GGally, rlang,
 RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown
 NeedsCompilation: no
-Packaged: 2022-06-22 00:34:56 UTC; zobitz
+Packaged: 2022-09-16 15:11:48 UTC; zobitz
 Author: John Zobitz [aut, cre] (<https://orcid.org/0000-0002-1830-143X>)
 Maintainer: John Zobitz <zobitz@augsburg.edu>
 Repository: CRAN
-Date/Publication: 2022-06-23 06:00:06 UTC
+Date/Publication: 2022-09-16 15:36:08 UTC

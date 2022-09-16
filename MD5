@@ -1,7 +1,7 @@
-bac6636dbdee0cc94661ba79e918524c *DESCRIPTION
+164661b9c389539963025c919cd2976a *DESCRIPTION
 082f73c3be5186e4381cf27a918cdc45 *LICENSE
 9e0cc8d20912d466b3223b15fc749c61 *NAMESPACE
-4b68ea63a26ddb79d0acd79e1bfbd7e5 *NEWS.md
+27e05fbbee6394ad765b0e814f661c9d *NEWS.md
 1e7e3f3e5a9a5a44bff07390bbbc2375 *R/compute_likelihood.R
 ee3219df5a215e185a36bbfed01745fc *R/eigenvalues.R
 cdf3ab0cdefaa98b3c2712000a728497 *R/euler.R
@@ -17,8 +17,8 @@ ca5f24a39538af7677677e2110a60493 *R/phosphorous.R
 ee266ef2a004d7bb70443eb6246f1302 *R/snowfall.R
 08609e5b6a089e2b944601e7e235f729 *R/wilson.R
 c3b204852222ddc1906f153f29a1873f *R/yeast.R
-f494f663e9f0fea07adfad33cdf35a38 *README.md
-966c599fc39e050a0ba08ab638d155e3 *data/global_temperature.rda
+afb80cdc7e5ea29a4b61c08f28076a70 *README.md
+09dc13bb0af1c57a22ff579d7415dc5b *data/global_temperature.rda
 5993d3111e4fbbeea4e41ba472588141 *data/parks.rda
 c05885c9a3250d924e8cd0d33024feee *data/phosphorous.rda
 fc62e314c8f7677c9d8a085a22f1d741 *data/precipitation.rda
